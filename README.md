@@ -1,7 +1,7 @@
 # School-Desegregation-Orders
 
 Analyzing this data set: https://www.propublica.org/datastore/dataset/school-desegregation-orders-data
-<br>
+
 "Across the United States, some school districts are bound by orders to increase the racial integration of black and Latino students and improve their educational opportunities. This dataset collects information about all of those school desegregation orders, from 1957 through the end of 2014. 
 
 The data files include information about school desegregation orders mandated by federal courts and open school desegregation orders that resulted from voluntary agreements between school districts and the U.S. Department of Education’s Office of Civil Rights."
