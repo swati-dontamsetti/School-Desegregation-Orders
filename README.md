@@ -10,6 +10,6 @@ Looking for:
 1. Location of the orders
 <br>a. According to National Geographic, the United States is typically divided into five geographic regions: the Northeast, Southwest, West, Southeast and Midwest.
 2. Number of orders by years
-<br>a. Has there been more or less orders over time.
+<br>a. Has there been more or less orders over time?
 3. Where are the most, and most recent orders taking place?
 4. What assumptions about segregation and location are confirmed and overturned?
