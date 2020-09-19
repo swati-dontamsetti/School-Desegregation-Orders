@@ -13,3 +13,6 @@ Looking for:
 <br>a. Has there been more or less orders over time?
 3. Where are the most, and most recent orders taking place?
 4. What assumptions about segregation and location are confirmed and overturned?
+
+## Hypothesis
+We assume that the South is more discriminatory than the North, because of it's history of slavery and Jim Crow. But, while the South was forced to desegragate through mandated busing, and other federal orders, the North was allowed to quitely segregate its counties through redlining. I predict that more of the recent desegregating order will take place in states we view as liberal.
