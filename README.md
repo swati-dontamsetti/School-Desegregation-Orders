@@ -21,4 +21,6 @@ We assume that the South is more discriminatory than the North, because of it's 
 ## Progress Update
 I started the cleaning process. I have currently used Jupyter Notebook to go through both CSVs to change NAs into "Unknown year" to keep with other columns, delete unneccessary columns, format the date, and add a necessary column.
 
-I used a long and tedious but effective for loop combined with if else statements to added the Regions based on the State. (1/29/21)
+I used a long and tedious but effective for loop combined with if else statements to added the Regions based on the State.
+
+Started to analyze the data. Just wanted to see what the count per region was to see if anything stuck out. It showed me that voluntary and involuntary orders were ranked differently. So I thought maybe I should add a "history of slavery" column as well. I decided to qualify the history of slavery by filtering the states that were free before the Civil War or became free during it. And the slave states were those that were part of the Confederacy and were willing to break from the Union in order to keep the institution of slavery. There were a few states that were border states (those that had slavery but were part of the Union). And a few states were territories and weren't US states yet. (1/29/21)
