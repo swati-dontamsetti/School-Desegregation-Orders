@@ -16,3 +16,9 @@ Looking for:
 
 ## Hypothesis
 We assume that the South is more discriminatory than the North, because of it's history of slavery and Jim Crow. But, while the South was forced to desegragate through mandated busing, and other federal orders, the North was allowed to quitely segregate its counties through redlining. I predict that more of the recent desegregating order will take place in states we view as liberal.
+
+
+## Progress Update
+I started the cleaning process. I have currently used Jupyter Notebook to go through both CSVs to change NAs into "Unknown year" to keep with other columns, delete unneccessary columns, format the date, and add a necessary column.
+
+I now need to update my Regions column based on the state column. I'm working on for loop and if statements that might work. If I'm not successful I'll have to transfer my tables to SQL to filter and work with the data that way.
