@@ -1,334 +1,334 @@
-,State,District Name,Received,Resolved,Order Type,Region
-0,CO,Adams County        14,2009-08-07,2010-02-09,Voluntary,
-1,CO,Adams County        14,2010-03-25,2014-04-25,Voluntary,
-2,IL,Addison School Dist 4,2012-10-11,2013-05-06,Voluntary,
-3,IL,Adler School Of Professional Psychology,2011-12-27,2012-06-22,Voluntary,
-4,NY,Albany City School District,2012-10-10,2013-05-10,Voluntary,
-5,IA,Ames Community School District,2003-05-07,2004-05-10,Voluntary,
-6,KY,Anderson Co,2014-01-31,2014-06-09,Voluntary,
-7,SC,Anderson County School District 05,2010-02-26,2013-02-04,Voluntary,
-8,CT,Ansonia Board Of Education,2009-04-03,2010-09-29,Voluntary,
-9,CA,Antioch Unified,2009-09-23,2011-05-20,Voluntary,
-10,CA,Antioch Unified,2012-09-05,2013-09-20,Voluntary,
-11,CA,Argosy University,2012-01-09,2013-01-28,Voluntary,
-12,AZ,Arizona Depart Of Education,2005-11-28,2012-08-31,Voluntary,
-13,TX,Arlington Isd,2011-08-25,2012-02-21,Voluntary,
-14,GA,Atlanta Christian College,2009-04-20,2011-05-26,Voluntary,
-15,IL,Aurora East Unit School Dist 131,2012-12-12,2013-07-17,Voluntary,
-16,IL,Aurora East Unit School Dist 131,2013-06-06,2013-12-19,Voluntary,
-17,CO,Aurora Public School District,2007-12-07,2008-03-28,Voluntary,
-18,AZ,Avondale Elementary District,2001-09-04,2004-07-09,Voluntary,
-19,AZ,Avondale Elementary District,2013-05-09,2013-11-20,Voluntary,
-20,KS,Baker University,2009-12-31,2010-07-08,Voluntary,
-21,PA,Baldwin-Whitehall Sd,2013-03-25,2013-12-13,Voluntary,
-22,DC,Basis Dc Pcs,2013-02-19,2013-11-07,Voluntary,
-23,SC,Beaufort County School District,2009-05-21,2010-05-10,Voluntary,
-24,MA,Belmont,2012-03-27,2012-09-21,Voluntary,
-25,OK,Bennington Public Schools,2012-10-09,2013-03-25,Voluntary,
-26,CT,Berlin Board Of Education,2012-03-02,2012-08-29,Voluntary,
-27,AL,Bessemer City Sch Dist,2013-01-17,2013-07-16,Voluntary,
-28,GA,Bill Ireland Youth Development Center,2008-02-29,2009-07-01,Voluntary,
-29,NY,Boces Questar Iii,2014-02-14,2014-05-12,Voluntary,
-30,NY,Boces St Lawrence-Lewis,2014-02-14,2014-06-16,Voluntary,
-31,NY,Boces Sullivan,2014-02-14,2014-05-15,Voluntary,
-32,MA,Boston Ps,2009-08-12,2010-08-26,Voluntary,
-33,MA,Boston Ps,2010-03-23,2012-04-20,Voluntary,
-34,CO,Boulder Valley      Re 2,2013-04-03,2013-11-05,Voluntary,
-35,CT,Bridgeport Board Of Education,2011-06-09,2012-02-08,Voluntary,
-36,OH,Brookfield Local Sd,2012-12-11,2013-06-07,Voluntary,
-37,OH,Brookfield Local Sd,2008-10-16,2010-03-05,Voluntary,
-38,FL,Broward County School District,2012-02-28,2012-08-23,Voluntary,
-39,GA,Bryan County,2012-08-29,2013-03-15,Voluntary,
-40,CO,Burlington          Re-6J,2013-07-23,2014-02-04,Voluntary,
-41,MD,Calvert County Public Schools,2012-03-12,2012-08-29,Voluntary,
-42,KS,Caney Valley U.S.D. #436,2009-05-21,2009-10-23,Voluntary,
-43,DC,Capital City Public Charter School,2012-08-20,2013-02-06,Voluntary,
-44,PA,Carnegie Mellon University,2003-04-16,2008-06-23,Voluntary,
-45,AZ,Cartwright Elementary District,2013-04-22,2013-11-04,Voluntary,
-46,AZ,Cartwright Elementary District,2003-11-03,2005-12-09,Voluntary,
-47,MI,Cassopolis Public Schools,2008-09-24,2011-08-25,Voluntary,
-48,CA,Castro Valley Unified,2013-04-04,2013-09-27,Voluntary,
-49,NC,Catawba County Schools,2012-07-12,2012-12-26,Voluntary,
-50,CA,Centinela Valley Union High,2010-09-10,2012-06-22,Voluntary,
-51,AZ,Central Arizona College,2012-02-03,2012-09-10,Voluntary,
-52,RI,Central Falls Sch Dist,2010-11-22,2011-05-20,Voluntary,
-53,MI,Cesar Chavez Academy,2011-10-11,2012-09-19,Voluntary,
-54,CA,Chabot College,2010-12-09,2011-06-03,Voluntary,
-55,KS,Chase County U.S.D. #284,2013-10-31,2014-05-12,Voluntary,
-56,IL,Chgo. City Colleges-Community College District 50,2011-05-20,2012-02-24,Voluntary,
-57,MA,Chicopee,2012-02-29,2013-06-11,Voluntary,
-58,KY,Christian County Schools,2011-03-09,2014-02-28,Voluntary,
-59,IN,Christian Theological Seminary,2013-07-23,2014-03-31,Voluntary,
-60,DE,Christina School District,2010-03-19,2012-12-14,Voluntary,
-61,IL,Cicero School District 99,1996-11-06,1999-01-26,Voluntary,
-62,NE,Clarkson College,2004-01-26,2006-03-27,Voluntary,
-63,TN,Clarksville-Montgomery County,2010-09-24,2012-09-26,Voluntary,
-64,FL,Clay County School District,2010-03-09,2011-03-25,Voluntary,
-65,OH,Cleveland Metropolitan School District,2008-09-16,2011-09-15,Voluntary,
-66,OH,Cleveland Metropolitan School District,2011-05-18,2014-01-07,Voluntary,
-67,NJ,Clifton School District,2010-06-30,2012-02-15,Voluntary,
-68,CA,Coachella Valley Unified,2012-02-03,2013-03-28,Voluntary,
-69,LA,Collegiate Academies,2013-08-02,2014-05-22,Voluntary,
-70,DE,Colonial School District,2012-10-25,2014-05-06,Voluntary,
-71,MO,Colorado Technical University,2010-12-20,2011-06-14,Voluntary,
-72,IL,Columbia College Chicago,2013-07-23,2014-02-04,Voluntary,
-73,MS,Columbus Municipal School District,2010-06-07,2011-02-24,Voluntary,
-74,OH,Columbus Preparatory Academy,2011-04-19,2011-10-14,Voluntary,
-75,AL,Conecuh County Sch Dist,2009-12-15,2010-12-21,Voluntary,
-76,MO,Confluence Academies,2013-04-15,2014-02-06,Voluntary,
-77,CA,Corona-Norco Unified,2011-11-30,2013-03-28,Voluntary,
-78,CT,Ct Dept Ed,2009-06-12,2009-12-09,Voluntary,
-79,NY,Cuny Hunter College,2012-11-16,2013-10-24,Voluntary,
-80,CA,Cupertino Union Elementary,2013-06-13,2013-12-23,Voluntary,
-81,IA,Davenport Comm School District,2010-03-11,2012-02-23,Voluntary,
-82,KS,De Soto U.S.D. #232,2009-04-09,2009-09-25,Voluntary,
-83,MI,Dearborn City School District,2010-03-31,2012-05-30,Voluntary,
-84,GA,Dekalb County,2012-02-15,2012-12-21,Voluntary,
-85,GA,Dekalb County,2011-02-21,2013-07-29,Voluntary,
-86,AR,Dequeen,2010-03-16,2012-12-06,Voluntary,
-87,IA,Des Moines Independent Community School Distri,1997-04-14,1998-04-20,Voluntary,
-88,LA,Desoto Parish School Board,2012-04-20,2013-03-01,Voluntary,
-89,SC,Dorchester County 02,2012-11-05,2013-09-30,Voluntary,
-90,CO,Douglas County School District Re 1,2011-03-09,2012-10-29,Voluntary,
-91,CO,Douglas County School District Re 1,2011-01-20,2012-10-29,Voluntary,
-92,OK,Dover Public Schools,2011-10-04,2012-04-13,Voluntary,
-93,NC,Duke University,2010-09-13,2011-05-16,Voluntary,
-94,FL,Duval County School District,2013-01-07,2013-08-19,Voluntary,
-95,LA,East Baton Rouge Parish School Board,2012-05-29,2013-06-20,Voluntary,
-96,CT,East Haven Board Of Education,2010-11-12,2011-05-11,Voluntary,
-97,CO,East Otero          R-1,2003-05-19,2006-01-20,Voluntary,
-98,RI,East Providence Sch Dist,2009-03-27,2010-02-17,Voluntary,
-99,GA,Echols County,2010-03-11,2012-04-25,Voluntary,
-100,NV,Elko County Sd,2012-10-12,2013-04-08,Voluntary,
-101,SD,Estelline School District #28-2,2013-06-03,2013-12-13,Voluntary,
-102,CT,Fairfield Board Of Education,2012-06-18,2013-09-30,Voluntary,
-103,AL,Faulkner State Community College,2013-11-21,2014-05-19,Voluntary,
-104,AZ,Florence Unified School District,2006-10-26,2007-03-23,Voluntary,
-105,FL,Florida Statewide Education Sy,1995-04-28,1998-07-16,Voluntary,
-106,NC,Franklin County Schools,2011-05-06,2011-10-26,Voluntary,
-107,CA,Franklin-Mckinley Elementary,2008-03-14,2009-08-31,Voluntary,
-108,KS,Garden City U.S.D. #457,1996-03-04,1996-04-25,Voluntary,
-109,NC,Gaston County Schools,2012-02-02,2012-10-16,Voluntary,
-110,NC,Gaston County Schools,2011-11-02,2012-10-16,Voluntary,
-111,MA,Gill-Montague,2012-05-11,2012-11-07,Voluntary,
-112,AZ,Glendale Elementary District,2000-01-26,2000-09-13,Voluntary,
-113,GA,Glynn County,2012-08-13,2013-06-11,Voluntary,
-114,MI,Grand Haven Area Public Schools,2012-10-22,2013-05-07,Voluntary,
-115,MI,Grand Rapids Public Schools,2008-04-15,2014-02-10,Voluntary,
-116,KY,Grant County School District,2012-04-10,2013-03-29,Voluntary,
-117,KY,Grant County School District,2013-05-07,2013-11-01,Voluntary,
-118,CO,Greeley School District 6,2009-11-30,2010-05-20,Voluntary,
-119,GU,Guam Department Of Education,2006-04-03,2007-12-26,Voluntary,
-120,OK,Guymon Public Schools,2005-04-13,2008-02-20,Voluntary,
-121,NM,Hagerman Municipal Schools,2007-05-29,2007-11-21,Voluntary,
-122,MI,Hamtramck Public Schools,2005-11-07,2010-05-07,Voluntary,
-123,IN,Hanover Community School Corp,2012-03-08,2013-02-25,Voluntary,
-124,SD,Harding County 31-1,2011-02-28,2011-08-25,Voluntary,
-125,CT,Hartford Board Of Education,2007-04-13,2013-04-11,Voluntary,
-126,MA,Haverhill,2004-09-21,2006-03-17,Voluntary,
-127,PA,Hazleton Area Sd,2010-10-20,2014-04-10,Voluntary,
-128,PA,Hazleton Area Sd,2010-03-19,2014-04-10,Voluntary,
-129,KY,Henderson County School District,1997-09-22,1998-06-04,Voluntary,
-130,GA,Henry County,2011-12-15,2013-03-06,Voluntary,
-131,GA,Henry County,2013-12-31,2014-06-27,Voluntary,
-132,MO,Hickman Mills C-1 School District,2012-07-09,2013-01-04,Voluntary,
-133,SD,Hill City School District #51-2,2005-12-15,2006-12-06,Voluntary,
-134,NY,Hofstra University,2012-12-12,2013-09-19,Voluntary,
-135,AR,Hope,2011-10-26,2012-08-21,Voluntary,
-136,OH,Horizon Science Acad Columbus,2013-04-04,2013-09-26,Voluntary,
-137,TX,Humble Isd,2012-05-31,2013-01-18,Voluntary,
-138,AL,Huntsville City Sch Dist,2013-05-16,2013-12-24,Voluntary,
-139,KS,Hutchinson Public Schools U.S.D. #308,2011-12-16,2012-06-12,Voluntary,
-140,IN,Indiana State University,2012-05-08,2012-11-15,Voluntary,
-141,IA,Iowa City Comm School District,2010-08-02,2013-09-20,Voluntary,
-142,IL,J S Morton H S District 201,1997-05-09,1998-09-24,Voluntary,
-143,ND,Jamestown College,2012-10-01,2014-03-11,Voluntary,
-144,CO,Jefferson County School District R-1,2013-01-22,2013-07-16,Voluntary,
-145,KS,Kansas City U.S.D. #500,2011-05-12,2011-11-04,Voluntary,
-146,KS,Kansas City U.S.D. #500,2011-05-12,2011-11-04,Voluntary,
-147,KS,Kansas City U.S.D. #500,2011-03-14,2011-09-19,Voluntary,
-148,KS,Kansas State University,2013-10-28,2014-04-24,Voluntary,
-149,TX,Kemp Isd,2007-08-20,2010-05-05,Voluntary,
-150,TN,Knox County School District,2010-01-25,2010-07-23,Voluntary,
-151,AZ,Kyrene School District #28,2011-05-23,2011-11-17,Voluntary,
-152,WA,Lake Stevens Sd No. 4,2007-04-09,2009-07-17,Voluntary,
-153,MA,Lawrence,2005-03-21,2006-09-29,Voluntary,
-154,MO,Lebanon R-Iii School District,2008-09-23,2009-03-20,Voluntary,
-155,PA,Lebanon Sd,2009-12-09,2011-04-21,Voluntary,
-156,AL,Lee County Sch Dist,2008-09-29,2013-09-10,Voluntary,
-157,FL,Leon County School District,2010-11-15,2011-05-16,Voluntary,
-158,IL,Lincoln Elem School Dist 156,2010-06-14,2010-12-10,Voluntary,
-159,LA,Lincoln Parish School Board,2012-11-13,2013-04-24,Voluntary,
-160,CA,Lincoln Unified,2013-03-04,2013-12-09,Voluntary,
-161,UT,Logan School District,2013-07-02,2014-06-02,Voluntary,
-162,OK,Lone Grove Public Schools,2007-10-25,2008-04-22,Voluntary,
-163,CA,Los Angeles Unified,2012-04-05,2013-06-20,Voluntary,
-164,CA,Los Angeles Unified,2007-04-24,2008-10-31,Voluntary,
-165,CA,Los Angeles Unified,2012-04-05,2013-06-26,Voluntary,
-166,CA,Los Angeles Unified,2010-02-25,2011-10-11,Voluntary,
-167,MA,Lynn,2012-11-06,2013-05-03,Voluntary,
-168,MA,Lynn,2013-03-19,2013-05-03,Voluntary,
-169,MA,Lynn,2012-11-06,2013-05-03,Voluntary,
-170,MA,Lynn,2010-09-24,2014-02-18,Voluntary,
-171,IN,M S D Pike Township,2008-04-28,2012-12-05,Voluntary,
-172,MI,Macomb Isd,2011-01-11,2011-09-14,Voluntary,
-173,KY,Madison Co,2011-08-12,2012-04-23,Voluntary,
-174,OH,Madison-Plains Local Sd,2009-06-03,2009-11-30,Voluntary,
-175,FL,Manatee County School District,2011-06-06,2013-06-27,Voluntary,
-176,NH,Manchester,2011-04-12,2014-04-09,Voluntary,
-177,CO,Mapleton            1,2008-11-03,2012-05-21,Voluntary,
-178,OH,Maplewood Career Center,2011-10-31,2012-09-12,Voluntary,
-179,MO,Maries County R-I School District,2008-11-06,2009-05-05,Voluntary,
-180,MO,Maries County R-I School District,2009-02-23,2009-08-20,Voluntary,
-181,GA,Marion County,2011-01-13,2011-07-14,Voluntary,
-182,FL,Marion County School District,2010-05-10,2013-04-09,Voluntary,
-183,MI,Marygrove College,2009-07-06,2010-02-26,Voluntary,
-184,MD,Maryland Higher Education Comm,1999-10-04,2000-12-06,Voluntary,
-185,TN,Memphis City School District,2010-04-09,2012-04-23,Voluntary,
-186,CA,Merritt College,2008-04-10,2010-05-20,Voluntary,
-187,TN,Metro Nashville Public Schools,2012-05-04,2013-03-01,Voluntary,
-188,TN,Metro Nashville Public Schools,2009-10-09,2011-09-29,Voluntary,
-189,MO,Metropolitan Community College,2010-11-22,2011-07-20,Voluntary,
-190,NE,Midland University,2010-09-21,2011-06-24,Voluntary,
-191,MN,Minneapolis Public Schools-School District #1,2012-12-27,2013-06-25,Voluntary,
-192,MN,Minneapolis Public Schools-School District #1,2013-02-11,2013-08-09,Voluntary,
-193,MN,Minneapolis Public Schools-School District #1,2008-07-21,2010-01-29,Voluntary,
-194,MO,Mo Dept Of Elementary And Secondary Education,2006-05-10,2010-09-27,Voluntary,
-195,CA,Monterey Peninsula Unified,2013-05-15,2014-06-12,Voluntary,
-196,AL,Montgomery County Sch Dist,2011-05-19,2012-01-27,Voluntary,
-197,NC,Moore County Schools,2009-11-30,2012-11-27,Voluntary,
-198,ME,Msad 16         Hallowell,2008-04-09,2008-10-03,Voluntary,
-199,CA,Mt. Diablo Unified,2009-04-07,2014-04-08,Voluntary,
-200,AZ,Murphy Elementary District,2009-08-10,2012-09-21,Voluntary,
-201,GA,Muscogee County,2013-03-04,2013-09-24,Voluntary,
-202,IL,Neoga Comm Unit School Dist 3,2010-12-17,2011-09-27,Voluntary,
-203,MO,Neosho R-V School District,1999-04-26,2000-05-11,Voluntary,
-204,CT,New London Board Of Education,2010-05-03,2012-02-01,Voluntary,
-205,NM,New Mexico Children Youth & Families,2007-08-02,2008-02-20,Voluntary,
-206,OH,New Richmond Ex Vill Sd,2011-01-05,2011-08-29,Voluntary,
-207,SC,Newberry County School District,2008-01-07,2010-02-01,Voluntary,
-208,VA,Norfolk Public Schools,2008-06-24,2012-03-05,Voluntary,
-209,OK,Norman Public Schools,2007-04-16,2009-03-27,Voluntary,
-210,NJ,Northern Valley Regional High School District,2011-04-25,2013-07-31,Voluntary,
-211,CA,Oakland Unified,2012-07-20,2013-02-28,Voluntary,
-212,CA,Oakland Unified,2012-05-09,2012-09-27,Voluntary,
-213,OK,Oklahoma City Public Schools,2011-09-19,2012-07-24,Voluntary,
-214,OK,Oklahoma State Regents Of Higher Education,2002-11-13,2009-06-26,Voluntary,
-215,OH,Olentangy Local Sd,2012-02-15,2012-08-24,Voluntary,
-216,NY,Onondaga-Cortland-Madison Boces,2014-02-14,2014-06-16,Voluntary,
-217,AL,Opelika City Sch Dist,2012-11-19,2013-05-16,Voluntary,
-218,MN,Owatonna,2010-03-23,2011-04-12,Voluntary,
-219,OH,Painesville City Local Sd,2008-12-22,2009-12-31,Voluntary,
-220,NE,Papillion-La Vista Public Schools,2010-11-12,2011-04-21,Voluntary,
-221,AZ,Paradise Valley Unified District,2000-09-25,2001-01-18,Voluntary,
-222,CA,Parlier Unified,2006-07-10,2008-02-29,Voluntary,
-223,CA,Pasadena Unified,2011-09-16,2012-07-31,Voluntary,
-224,CA,Pasadena Unified,2010-10-24,2012-05-07,Voluntary,
-225,CA,Pasadena Unified,2013-03-25,2014-04-08,Voluntary,
-226,CA,Pasadena Unified,2010-11-12,2012-08-17,Voluntary,
-227,CA,Pasadena Unified,2010-10-25,2011-07-21,Voluntary,
-228,NJ,Paterson School District,2008-10-06,2011-05-13,Voluntary,
-229,MO,Pattonville R-Iii School District,2009-05-27,2009-11-23,Voluntary,
-230,MO,Pattonville R-Iii School District,2009-05-18,2009-12-23,Voluntary,
-231,MO,Pemiscot County R-Iii School District,2007-09-17,2008-03-14,Voluntary,
-232,PA,Pennsylvania Higher Ed System,1995-09-06,1999-05-12,Voluntary,
-233,PA,Philadelphia Sd,2010-11-19,2012-05-10,Voluntary,
-234,NC,Pitt County Schools,2010-02-24,2012-09-11,Voluntary,
-235,NJ,Plainfield Board Of Education,2010-07-23,2011-01-19,Voluntary,
-236,IL,Plainfield School Dist 202,2011-10-11,2012-05-03,Voluntary,
-237,MO,Platte County R-Iii School District,2010-08-12,2011-04-06,Voluntary,
-238,WI,Platteville,2012-12-26,2013-11-20,Voluntary,
-239,DE,Polytech School District,2014-01-10,2014-04-25,Voluntary,
-240,MO,Poplar Bluff R-I School District,2009-08-10,2010-02-04,Voluntary,
-241,MO,Poplar Bluff R-I School District,2009-11-13,2010-05-11,Voluntary,
-242,ME,Portland Public Schools,2012-09-17,2013-05-28,Voluntary,
-243,IL,Posen-Robbins El Sch Dist 143-5,2012-12-26,2013-06-03,Voluntary,
-244,RI,Providence Sch Dist,2008-11-17,2011-09-06,Voluntary,
-245,CO,Pueblo School District 70,2004-09-20,2007-08-13,Voluntary,
-246,FL,Putnam County School District,2012-04-05,2012-12-10,Voluntary,
-247,SD,Rapid City Area School District #51-4,2007-11-23,2011-05-27,Voluntary,
-248,NH,Raymond Sch Dist,2011-04-28,2011-08-24,Voluntary,
-249,MN,Red Wing,2009-12-04,2010-09-02,Voluntary,
-250,CT,Redding Board Of Education,2009-09-01,2010-04-13,Voluntary,
-251,CT,Regional School District 15,2011-10-14,2012-04-11,Voluntary,
-252,CT,Regional School District 19,2012-04-03,2012-09-28,Voluntary,
-253,MA,Revere,2010-11-29,2011-05-20,Voluntary,
-254,TX,Richardson Isd,2012-03-14,2013-05-20,Voluntary,
-255,OH,Richmond Heights Local Sd,2011-02-22,2011-08-19,Voluntary,
-256,OH,Richmond Heights Local Sd,2011-03-21,2012-05-11,Voluntary,
-257,OH,Richmond Heights Local Sd,2011-09-19,2012-05-11,Voluntary,
-258,AZ,Riverside Elementary District,2006-09-21,2007-03-27,Voluntary,
-259,CO,Roaring Fork        Re-1,2004-04-29,2005-08-05,Voluntary,
-260,NC,Robeson County Schools,2012-02-22,2013-03-21,Voluntary,
-261,NC,Robeson County Schools,2012-12-04,2013-07-08,Voluntary,
-262,MO,Rockwood R-Vi School District,2012-10-25,2013-04-19,Voluntary,
-263,AZ,Roosevelt Elementary District,2000-06-20,2000-10-27,Voluntary,
-264,NC,Rowan-Salisbury Schools,2011-10-31,2012-05-01,Voluntary,
-265,CA,Sacramento City Unified,2013-04-22,2014-06-13,Voluntary,
-266,AZ,Sahuarita Unified District,2001-11-26,2002-05-07,Voluntary,
-267,CA,San Francisco State University,2013-10-17,2014-04-10,Voluntary,
-268,CA,Santa Ana Unified,2013-05-31,2014-01-24,Voluntary,
-269,CA,Santa Clara Unified,2013-03-13,2013-12-18,Voluntary,
-270,NM,Santa Fe Public Schools,2003-05-05,2004-08-23,Voluntary,
-271,CA,Santa Maria-Bonita Elementary,2012-04-30,2012-10-12,Voluntary,
-272,MN,Sauk Rapids Public School District 47,2010-10-01,2012-06-04,Voluntary,
-273,NY,Schenectady City School District,2001-06-26,2003-11-18,Voluntary,
-274,NY,Schenectady City School District,2010-03-19,2013-10-30,Voluntary,
-275,CT,Scotland Board Of Education,2011-03-29,2011-09-19,Voluntary,
-276,AZ,Scottsdale Unified District,2008-01-22,2009-12-17,Voluntary,
-277,KS,Shawnee Mission Public Schools U.S.D. #512,2008-03-31,2010-03-04,Voluntary,
-278,WA,Snoqualmie Valley Sd No. 410,2013-05-14,2014-06-13,Voluntary,
-279,AZ,Snowflake Unified District,2004-08-23,2005-10-25,Voluntary,
-280,MI,South Haven Public Schools,2010-11-12,2011-05-11,Voluntary,
-281,NE,South Sioux City Community Schools,1997-03-04,1997-07-16,Voluntary,
-282,MO,Southwest Baptist University,2008-10-24,2009-05-14,Voluntary,
-283,MA,Springfield,2012-05-09,2013-02-14,Voluntary,
-284,MA,Springfield,2007-06-26,2008-09-26,Voluntary,
-285,MA,Springfield,2005-08-30,2006-02-24,Voluntary,
-286,MA,Springfield,2007-01-22,2010-07-14,Voluntary,
-287,VT,Springfield Sd,2011-04-14,2012-08-14,Voluntary,
-288,CO,St Vrain Valley School District Re 1J,2010-07-13,2010-11-17,Voluntary,
-289,MN,St. Cloud Area School District 742,2010-03-23,2011-11-16,Voluntary,
-290,MO,State Fair Community College,2008-08-20,2009-08-17,Voluntary,
-291,CA,Stony Creek Joint Unified,2013-08-29,2014-04-08,Voluntary,
-292,OK,Stroud Public Schools,2013-05-06,2013-11-18,Voluntary,
-293,WI,Sun Prairie Area,2011-05-18,2013-11-08,Voluntary,
-294,OH,Sylvania City Sd,2004-06-14,2006-04-20,Voluntary,
-295,NY,Syracuse City School District,2012-10-05,2013-05-13,Voluntary,
-296,KS,Tabor College,2013-11-27,2014-05-23,Voluntary,
-297,OK,Tahlequah Public Schools,2010-05-05,2010-10-28,Voluntary,
-298,AL,Tallapoosa County Sch Dist,2011-05-06,2011-11-02,Voluntary,
-299,AL,Tallapoosa County Sch Dist,2011-03-29,2011-09-23,Voluntary,
-300,CA,Temecula Valley Unified,2011-12-23,2013-01-03,Voluntary,
-301,TX,Texas Higher Ed Desegregation,1997-02-04,2000-05-23,Voluntary,
-302,TN,The National College Of Business And Technology,2010-05-06,2013-05-30,Voluntary,
-303,OR,Tigard-Tualatin Sd 23J,2010-09-22,2014-02-28,Voluntary,
-304,OH,Toledo City School District,2011-12-12,2012-11-30,Voluntary,
-305,AZ,Tolleson Union High School District,2011-12-19,2012-06-15,Voluntary,
-306,KS,Topeka Public Schools U.S.D. #501,2012-04-17,2012-10-12,Voluntary,
-307,MI,Traverse City Area Public Schools,2010-04-12,2012-05-31,Voluntary,
-308,MO,Truman State University,2010-06-09,2012-05-09,Voluntary,
-309,AZ,Tucson Unified District,2010-05-11,2011-02-22,Voluntary,
-310,AZ,Tucson Unified District,2012-04-18,2013-04-22,Voluntary,
-311,AZ,Tucson Unified District,1994-10-24,1996-05-31,Voluntary,
-312,OK,Tulsa Public Schools,2009-12-14,2010-07-08,Voluntary,
-313,OK,Tulsa Public Schools,2010-03-31,2013-02-04,Voluntary,
-314,OK,Union Public Schools,2010-03-12,2010-09-07,Voluntary,
-315,CA,University Of California-San Diego,2011-03-30,2012-04-16,Voluntary,
-316,NY,Vestal Central School District,2011-07-01,2012-05-21,Voluntary,
-317,CT,Wallingford Board Of Education,2013-06-10,2013-12-23,Voluntary,
-318,MO,Warrensburg R-Vi School District,2011-09-16,2012-03-14,Voluntary,
-319,AZ,Washington Elementary School District,2011-02-04,2011-08-03,Voluntary,
-320,OK,Wayne Public Schools,2013-03-28,2013-09-24,Voluntary,
-321,PA,Waynesboro Area Sd,2011-06-16,2012-02-17,Voluntary,
-322,VA,Waynesboro City Public Schools,2011-10-17,2012-03-15,Voluntary,
-323,TN,Weakley County School District,2013-01-22,2013-07-19,Voluntary,
-324,CA,West Contra Costa Unified,2010-07-06,2012-06-15,Voluntary,
-325,OH,West Geauga Local Sd,2012-04-30,2012-12-04,Voluntary,
-326,NY,Westchester Community College,2011-09-28,2012-05-31,Voluntary,
-327,NY,White Plains Public Schools,2011-02-14,2013-04-18,Voluntary,
-328,PA,Wilkes-Barre Area Sd,2011-05-25,2012-03-30,Voluntary,
-329,NC,Wilson County Schools,2010-04-05,2012-08-06,Voluntary,
-330,CT,Windham Board Of Education,2004-09-08,2006-08-18,Voluntary,
-331,MA,Worcester,2012-08-22,2013-02-15,Voluntary,
-332,AZ,Yuma School District 1,2013-05-20,2013-11-27,Voluntary,
+State,District Name,Received,Resolved,Order Type,Region
+CO,Adams County        14,2009-08-07,2010-02-09,Voluntary,West
+CO,Adams County        14,2010-03-25,2014-04-25,Voluntary,West
+IL,Addison School Dist 4,2012-10-11,2013-05-06,Voluntary,Midwest
+IL,Adler School Of Professional Psychology,2011-12-27,2012-06-22,Voluntary,Midwest
+NY,Albany City School District,2012-10-10,2013-05-10,Voluntary,Northeast
+IA,Ames Community School District,2003-05-07,2004-05-10,Voluntary,Midwest
+KY,Anderson Co,2014-01-31,2014-06-09,Voluntary,
+SC,Anderson County School District 05,2010-02-26,2013-02-04,Voluntary,Southeast
+CT,Ansonia Board Of Education,2009-04-03,2010-09-29,Voluntary,Northeast
+CA,Antioch Unified,2009-09-23,2011-05-20,Voluntary,West
+CA,Antioch Unified,2012-09-05,2013-09-20,Voluntary,West
+CA,Argosy University,2012-01-09,2013-01-28,Voluntary,West
+AZ,Arizona Depart Of Education,2005-11-28,2012-08-31,Voluntary,Southwest
+TX,Arlington Isd,2011-08-25,2012-02-21,Voluntary,Southwest
+GA,Atlanta Christian College,2009-04-20,2011-05-26,Voluntary,Southeast
+IL,Aurora East Unit School Dist 131,2012-12-12,2013-07-17,Voluntary,Midwest
+IL,Aurora East Unit School Dist 131,2013-06-06,2013-12-19,Voluntary,Midwest
+CO,Aurora Public School District,2007-12-07,2008-03-28,Voluntary,West
+AZ,Avondale Elementary District,2001-09-04,2004-07-09,Voluntary,Southwest
+AZ,Avondale Elementary District,2013-05-09,2013-11-20,Voluntary,Southwest
+KS,Baker University,2009-12-31,2010-07-08,Voluntary,Midwest
+PA,Baldwin-Whitehall Sd,2013-03-25,2013-12-13,Voluntary,Northeast
+DC,Basis Dc Pcs,2013-02-19,2013-11-07,Voluntary,
+SC,Beaufort County School District,2009-05-21,2010-05-10,Voluntary,Southeast
+MA,Belmont,2012-03-27,2012-09-21,Voluntary,Northeast
+OK,Bennington Public Schools,2012-10-09,2013-03-25,Voluntary,Southwest
+CT,Berlin Board Of Education,2012-03-02,2012-08-29,Voluntary,Northeast
+AL,Bessemer City Sch Dist,2013-01-17,2013-07-16,Voluntary,Southeast
+GA,Bill Ireland Youth Development Center,2008-02-29,2009-07-01,Voluntary,Southeast
+NY,Boces Questar Iii,2014-02-14,2014-05-12,Voluntary,Northeast
+NY,Boces St Lawrence-Lewis,2014-02-14,2014-06-16,Voluntary,Northeast
+NY,Boces Sullivan,2014-02-14,2014-05-15,Voluntary,Northeast
+MA,Boston Ps,2009-08-12,2010-08-26,Voluntary,Northeast
+MA,Boston Ps,2010-03-23,2012-04-20,Voluntary,Northeast
+CO,Boulder Valley      Re 2,2013-04-03,2013-11-05,Voluntary,West
+CT,Bridgeport Board Of Education,2011-06-09,2012-02-08,Voluntary,Northeast
+OH,Brookfield Local Sd,2012-12-11,2013-06-07,Voluntary,Midwest
+OH,Brookfield Local Sd,2008-10-16,2010-03-05,Voluntary,Midwest
+FL,Broward County School District,2012-02-28,2012-08-23,Voluntary,Southeast
+GA,Bryan County,2012-08-29,2013-03-15,Voluntary,Southeast
+CO,Burlington          Re-6J,2013-07-23,2014-02-04,Voluntary,West
+MD,Calvert County Public Schools,2012-03-12,2012-08-29,Voluntary,Southeast
+KS,Caney Valley U.S.D. #436,2009-05-21,2009-10-23,Voluntary,Midwest
+DC,Capital City Public Charter School,2012-08-20,2013-02-06,Voluntary,
+PA,Carnegie Mellon University,2003-04-16,2008-06-23,Voluntary,Northeast
+AZ,Cartwright Elementary District,2013-04-22,2013-11-04,Voluntary,Southwest
+AZ,Cartwright Elementary District,2003-11-03,2005-12-09,Voluntary,Southwest
+MI,Cassopolis Public Schools,2008-09-24,2011-08-25,Voluntary,Midwest
+CA,Castro Valley Unified,2013-04-04,2013-09-27,Voluntary,West
+NC,Catawba County Schools,2012-07-12,2012-12-26,Voluntary,Southeast
+CA,Centinela Valley Union High,2010-09-10,2012-06-22,Voluntary,West
+AZ,Central Arizona College,2012-02-03,2012-09-10,Voluntary,Southwest
+RI,Central Falls Sch Dist,2010-11-22,2011-05-20,Voluntary,Northeast
+MI,Cesar Chavez Academy,2011-10-11,2012-09-19,Voluntary,Midwest
+CA,Chabot College,2010-12-09,2011-06-03,Voluntary,West
+KS,Chase County U.S.D. #284,2013-10-31,2014-05-12,Voluntary,Midwest
+IL,Chgo. City Colleges-Community College District 50,2011-05-20,2012-02-24,Voluntary,Midwest
+MA,Chicopee,2012-02-29,2013-06-11,Voluntary,Northeast
+KY,Christian County Schools,2011-03-09,2014-02-28,Voluntary,
+IN,Christian Theological Seminary,2013-07-23,2014-03-31,Voluntary,Midwest
+DE,Christina School District,2010-03-19,2012-12-14,Voluntary,Southeast
+IL,Cicero School District 99,1996-11-06,1999-01-26,Voluntary,Midwest
+NE,Clarkson College,2004-01-26,2006-03-27,Voluntary,Midwest
+TN,Clarksville-Montgomery County,2010-09-24,2012-09-26,Voluntary,Southeast
+FL,Clay County School District,2010-03-09,2011-03-25,Voluntary,Southeast
+OH,Cleveland Metropolitan School District,2008-09-16,2011-09-15,Voluntary,Midwest
+OH,Cleveland Metropolitan School District,2011-05-18,2014-01-07,Voluntary,Midwest
+NJ,Clifton School District,2010-06-30,2012-02-15,Voluntary,Northeast
+CA,Coachella Valley Unified,2012-02-03,2013-03-28,Voluntary,West
+LA,Collegiate Academies,2013-08-02,2014-05-22,Voluntary,Southeast
+DE,Colonial School District,2012-10-25,2014-05-06,Voluntary,Southeast
+MO,Colorado Technical University,2010-12-20,2011-06-14,Voluntary,Midwest
+IL,Columbia College Chicago,2013-07-23,2014-02-04,Voluntary,Midwest
+MS,Columbus Municipal School District,2010-06-07,2011-02-24,Voluntary,Southeast
+OH,Columbus Preparatory Academy,2011-04-19,2011-10-14,Voluntary,Midwest
+AL,Conecuh County Sch Dist,2009-12-15,2010-12-21,Voluntary,Southeast
+MO,Confluence Academies,2013-04-15,2014-02-06,Voluntary,Midwest
+CA,Corona-Norco Unified,2011-11-30,2013-03-28,Voluntary,West
+CT,Ct Dept Ed,2009-06-12,2009-12-09,Voluntary,Northeast
+NY,Cuny Hunter College,2012-11-16,2013-10-24,Voluntary,Northeast
+CA,Cupertino Union Elementary,2013-06-13,2013-12-23,Voluntary,West
+IA,Davenport Comm School District,2010-03-11,2012-02-23,Voluntary,Midwest
+KS,De Soto U.S.D. #232,2009-04-09,2009-09-25,Voluntary,Midwest
+MI,Dearborn City School District,2010-03-31,2012-05-30,Voluntary,Midwest
+GA,Dekalb County,2012-02-15,2012-12-21,Voluntary,Southeast
+GA,Dekalb County,2011-02-21,2013-07-29,Voluntary,Southeast
+AR,Dequeen,2010-03-16,2012-12-06,Voluntary,Southeast
+IA,Des Moines Independent Community School Distri,1997-04-14,1998-04-20,Voluntary,Midwest
+LA,Desoto Parish School Board,2012-04-20,2013-03-01,Voluntary,Southeast
+SC,Dorchester County 02,2012-11-05,2013-09-30,Voluntary,Southeast
+CO,Douglas County School District Re 1,2011-03-09,2012-10-29,Voluntary,West
+CO,Douglas County School District Re 1,2011-01-20,2012-10-29,Voluntary,West
+OK,Dover Public Schools,2011-10-04,2012-04-13,Voluntary,Southwest
+NC,Duke University,2010-09-13,2011-05-16,Voluntary,Southeast
+FL,Duval County School District,2013-01-07,2013-08-19,Voluntary,Southeast
+LA,East Baton Rouge Parish School Board,2012-05-29,2013-06-20,Voluntary,Southeast
+CT,East Haven Board Of Education,2010-11-12,2011-05-11,Voluntary,Northeast
+CO,East Otero          R-1,2003-05-19,2006-01-20,Voluntary,West
+RI,East Providence Sch Dist,2009-03-27,2010-02-17,Voluntary,Northeast
+GA,Echols County,2010-03-11,2012-04-25,Voluntary,Southeast
+NV,Elko County Sd,2012-10-12,2013-04-08,Voluntary,West
+SD,Estelline School District #28-2,2013-06-03,2013-12-13,Voluntary,Midwest
+CT,Fairfield Board Of Education,2012-06-18,2013-09-30,Voluntary,Northeast
+AL,Faulkner State Community College,2013-11-21,2014-05-19,Voluntary,Southeast
+AZ,Florence Unified School District,2006-10-26,2007-03-23,Voluntary,Southwest
+FL,Florida Statewide Education Sy,1995-04-28,1998-07-16,Voluntary,Southeast
+NC,Franklin County Schools,2011-05-06,2011-10-26,Voluntary,Southeast
+CA,Franklin-Mckinley Elementary,2008-03-14,2009-08-31,Voluntary,West
+KS,Garden City U.S.D. #457,1996-03-04,1996-04-25,Voluntary,Midwest
+NC,Gaston County Schools,2012-02-02,2012-10-16,Voluntary,Southeast
+NC,Gaston County Schools,2011-11-02,2012-10-16,Voluntary,Southeast
+MA,Gill-Montague,2012-05-11,2012-11-07,Voluntary,Northeast
+AZ,Glendale Elementary District,2000-01-26,2000-09-13,Voluntary,Southwest
+GA,Glynn County,2012-08-13,2013-06-11,Voluntary,Southeast
+MI,Grand Haven Area Public Schools,2012-10-22,2013-05-07,Voluntary,Midwest
+MI,Grand Rapids Public Schools,2008-04-15,2014-02-10,Voluntary,Midwest
+KY,Grant County School District,2012-04-10,2013-03-29,Voluntary,
+KY,Grant County School District,2013-05-07,2013-11-01,Voluntary,
+CO,Greeley School District 6,2009-11-30,2010-05-20,Voluntary,West
+GU,Guam Department Of Education,2006-04-03,2007-12-26,Voluntary,
+OK,Guymon Public Schools,2005-04-13,2008-02-20,Voluntary,Southwest
+NM,Hagerman Municipal Schools,2007-05-29,2007-11-21,Voluntary,Southwest
+MI,Hamtramck Public Schools,2005-11-07,2010-05-07,Voluntary,Midwest
+IN,Hanover Community School Corp,2012-03-08,2013-02-25,Voluntary,Midwest
+SD,Harding County 31-1,2011-02-28,2011-08-25,Voluntary,Midwest
+CT,Hartford Board Of Education,2007-04-13,2013-04-11,Voluntary,Northeast
+MA,Haverhill,2004-09-21,2006-03-17,Voluntary,Northeast
+PA,Hazleton Area Sd,2010-10-20,2014-04-10,Voluntary,Northeast
+PA,Hazleton Area Sd,2010-03-19,2014-04-10,Voluntary,Northeast
+KY,Henderson County School District,1997-09-22,1998-06-04,Voluntary,
+GA,Henry County,2011-12-15,2013-03-06,Voluntary,Southeast
+GA,Henry County,2013-12-31,2014-06-27,Voluntary,Southeast
+MO,Hickman Mills C-1 School District,2012-07-09,2013-01-04,Voluntary,Midwest
+SD,Hill City School District #51-2,2005-12-15,2006-12-06,Voluntary,Midwest
+NY,Hofstra University,2012-12-12,2013-09-19,Voluntary,Northeast
+AR,Hope,2011-10-26,2012-08-21,Voluntary,Southeast
+OH,Horizon Science Acad Columbus,2013-04-04,2013-09-26,Voluntary,Midwest
+TX,Humble Isd,2012-05-31,2013-01-18,Voluntary,Southwest
+AL,Huntsville City Sch Dist,2013-05-16,2013-12-24,Voluntary,Southeast
+KS,Hutchinson Public Schools U.S.D. #308,2011-12-16,2012-06-12,Voluntary,Midwest
+IN,Indiana State University,2012-05-08,2012-11-15,Voluntary,Midwest
+IA,Iowa City Comm School District,2010-08-02,2013-09-20,Voluntary,Midwest
+IL,J S Morton H S District 201,1997-05-09,1998-09-24,Voluntary,Midwest
+ND,Jamestown College,2012-10-01,2014-03-11,Voluntary,Midwest
+CO,Jefferson County School District R-1,2013-01-22,2013-07-16,Voluntary,West
+KS,Kansas City U.S.D. #500,2011-05-12,2011-11-04,Voluntary,Midwest
+KS,Kansas City U.S.D. #500,2011-05-12,2011-11-04,Voluntary,Midwest
+KS,Kansas City U.S.D. #500,2011-03-14,2011-09-19,Voluntary,Midwest
+KS,Kansas State University,2013-10-28,2014-04-24,Voluntary,Midwest
+TX,Kemp Isd,2007-08-20,2010-05-05,Voluntary,Southwest
+TN,Knox County School District,2010-01-25,2010-07-23,Voluntary,Southeast
+AZ,Kyrene School District #28,2011-05-23,2011-11-17,Voluntary,Southwest
+WA,Lake Stevens Sd No. 4,2007-04-09,2009-07-17,Voluntary,West
+MA,Lawrence,2005-03-21,2006-09-29,Voluntary,Northeast
+MO,Lebanon R-Iii School District,2008-09-23,2009-03-20,Voluntary,Midwest
+PA,Lebanon Sd,2009-12-09,2011-04-21,Voluntary,Northeast
+AL,Lee County Sch Dist,2008-09-29,2013-09-10,Voluntary,Southeast
+FL,Leon County School District,2010-11-15,2011-05-16,Voluntary,Southeast
+IL,Lincoln Elem School Dist 156,2010-06-14,2010-12-10,Voluntary,Midwest
+LA,Lincoln Parish School Board,2012-11-13,2013-04-24,Voluntary,Southeast
+CA,Lincoln Unified,2013-03-04,2013-12-09,Voluntary,West
+UT,Logan School District,2013-07-02,2014-06-02,Voluntary,West
+OK,Lone Grove Public Schools,2007-10-25,2008-04-22,Voluntary,Southwest
+CA,Los Angeles Unified,2012-04-05,2013-06-20,Voluntary,West
+CA,Los Angeles Unified,2007-04-24,2008-10-31,Voluntary,West
+CA,Los Angeles Unified,2012-04-05,2013-06-26,Voluntary,West
+CA,Los Angeles Unified,2010-02-25,2011-10-11,Voluntary,West
+MA,Lynn,2012-11-06,2013-05-03,Voluntary,Northeast
+MA,Lynn,2013-03-19,2013-05-03,Voluntary,Northeast
+MA,Lynn,2012-11-06,2013-05-03,Voluntary,Northeast
+MA,Lynn,2010-09-24,2014-02-18,Voluntary,Northeast
+IN,M S D Pike Township,2008-04-28,2012-12-05,Voluntary,Midwest
+MI,Macomb Isd,2011-01-11,2011-09-14,Voluntary,Midwest
+KY,Madison Co,2011-08-12,2012-04-23,Voluntary,
+OH,Madison-Plains Local Sd,2009-06-03,2009-11-30,Voluntary,Midwest
+FL,Manatee County School District,2011-06-06,2013-06-27,Voluntary,Southeast
+NH,Manchester,2011-04-12,2014-04-09,Voluntary,Northeast
+CO,Mapleton            1,2008-11-03,2012-05-21,Voluntary,West
+OH,Maplewood Career Center,2011-10-31,2012-09-12,Voluntary,Midwest
+MO,Maries County R-I School District,2008-11-06,2009-05-05,Voluntary,Midwest
+MO,Maries County R-I School District,2009-02-23,2009-08-20,Voluntary,Midwest
+GA,Marion County,2011-01-13,2011-07-14,Voluntary,Southeast
+FL,Marion County School District,2010-05-10,2013-04-09,Voluntary,Southeast
+MI,Marygrove College,2009-07-06,2010-02-26,Voluntary,Midwest
+MD,Maryland Higher Education Comm,1999-10-04,2000-12-06,Voluntary,Southeast
+TN,Memphis City School District,2010-04-09,2012-04-23,Voluntary,Southeast
+CA,Merritt College,2008-04-10,2010-05-20,Voluntary,West
+TN,Metro Nashville Public Schools,2012-05-04,2013-03-01,Voluntary,Southeast
+TN,Metro Nashville Public Schools,2009-10-09,2011-09-29,Voluntary,Southeast
+MO,Metropolitan Community College,2010-11-22,2011-07-20,Voluntary,Midwest
+NE,Midland University,2010-09-21,2011-06-24,Voluntary,Midwest
+MN,Minneapolis Public Schools-School District #1,2012-12-27,2013-06-25,Voluntary,Midwest
+MN,Minneapolis Public Schools-School District #1,2013-02-11,2013-08-09,Voluntary,Midwest
+MN,Minneapolis Public Schools-School District #1,2008-07-21,2010-01-29,Voluntary,Midwest
+MO,Mo Dept Of Elementary And Secondary Education,2006-05-10,2010-09-27,Voluntary,Midwest
+CA,Monterey Peninsula Unified,2013-05-15,2014-06-12,Voluntary,West
+AL,Montgomery County Sch Dist,2011-05-19,2012-01-27,Voluntary,Southeast
+NC,Moore County Schools,2009-11-30,2012-11-27,Voluntary,Southeast
+ME,Msad 16         Hallowell,2008-04-09,2008-10-03,Voluntary,Northeast
+CA,Mt. Diablo Unified,2009-04-07,2014-04-08,Voluntary,West
+AZ,Murphy Elementary District,2009-08-10,2012-09-21,Voluntary,Southwest
+GA,Muscogee County,2013-03-04,2013-09-24,Voluntary,Southeast
+IL,Neoga Comm Unit School Dist 3,2010-12-17,2011-09-27,Voluntary,Midwest
+MO,Neosho R-V School District,1999-04-26,2000-05-11,Voluntary,Midwest
+CT,New London Board Of Education,2010-05-03,2012-02-01,Voluntary,Northeast
+NM,New Mexico Children Youth & Families,2007-08-02,2008-02-20,Voluntary,Southwest
+OH,New Richmond Ex Vill Sd,2011-01-05,2011-08-29,Voluntary,Midwest
+SC,Newberry County School District,2008-01-07,2010-02-01,Voluntary,Southeast
+VA,Norfolk Public Schools,2008-06-24,2012-03-05,Voluntary,Southeast
+OK,Norman Public Schools,2007-04-16,2009-03-27,Voluntary,Southwest
+NJ,Northern Valley Regional High School District,2011-04-25,2013-07-31,Voluntary,Northeast
+CA,Oakland Unified,2012-07-20,2013-02-28,Voluntary,West
+CA,Oakland Unified,2012-05-09,2012-09-27,Voluntary,West
+OK,Oklahoma City Public Schools,2011-09-19,2012-07-24,Voluntary,Southwest
+OK,Oklahoma State Regents Of Higher Education,2002-11-13,2009-06-26,Voluntary,Southwest
+OH,Olentangy Local Sd,2012-02-15,2012-08-24,Voluntary,Midwest
+NY,Onondaga-Cortland-Madison Boces,2014-02-14,2014-06-16,Voluntary,Northeast
+AL,Opelika City Sch Dist,2012-11-19,2013-05-16,Voluntary,Southeast
+MN,Owatonna,2010-03-23,2011-04-12,Voluntary,Midwest
+OH,Painesville City Local Sd,2008-12-22,2009-12-31,Voluntary,Midwest
+NE,Papillion-La Vista Public Schools,2010-11-12,2011-04-21,Voluntary,Midwest
+AZ,Paradise Valley Unified District,2000-09-25,2001-01-18,Voluntary,Southwest
+CA,Parlier Unified,2006-07-10,2008-02-29,Voluntary,West
+CA,Pasadena Unified,2011-09-16,2012-07-31,Voluntary,West
+CA,Pasadena Unified,2010-10-24,2012-05-07,Voluntary,West
+CA,Pasadena Unified,2013-03-25,2014-04-08,Voluntary,West
+CA,Pasadena Unified,2010-11-12,2012-08-17,Voluntary,West
+CA,Pasadena Unified,2010-10-25,2011-07-21,Voluntary,West
+NJ,Paterson School District,2008-10-06,2011-05-13,Voluntary,Northeast
+MO,Pattonville R-Iii School District,2009-05-27,2009-11-23,Voluntary,Midwest
+MO,Pattonville R-Iii School District,2009-05-18,2009-12-23,Voluntary,Midwest
+MO,Pemiscot County R-Iii School District,2007-09-17,2008-03-14,Voluntary,Midwest
+PA,Pennsylvania Higher Ed System,1995-09-06,1999-05-12,Voluntary,Northeast
+PA,Philadelphia Sd,2010-11-19,2012-05-10,Voluntary,Northeast
+NC,Pitt County Schools,2010-02-24,2012-09-11,Voluntary,Southeast
+NJ,Plainfield Board Of Education,2010-07-23,2011-01-19,Voluntary,Northeast
+IL,Plainfield School Dist 202,2011-10-11,2012-05-03,Voluntary,Midwest
+MO,Platte County R-Iii School District,2010-08-12,2011-04-06,Voluntary,Midwest
+WI,Platteville,2012-12-26,2013-11-20,Voluntary,Midwest
+DE,Polytech School District,2014-01-10,2014-04-25,Voluntary,Southeast
+MO,Poplar Bluff R-I School District,2009-08-10,2010-02-04,Voluntary,Midwest
+MO,Poplar Bluff R-I School District,2009-11-13,2010-05-11,Voluntary,Midwest
+ME,Portland Public Schools,2012-09-17,2013-05-28,Voluntary,Northeast
+IL,Posen-Robbins El Sch Dist 143-5,2012-12-26,2013-06-03,Voluntary,Midwest
+RI,Providence Sch Dist,2008-11-17,2011-09-06,Voluntary,Northeast
+CO,Pueblo School District 70,2004-09-20,2007-08-13,Voluntary,West
+FL,Putnam County School District,2012-04-05,2012-12-10,Voluntary,Southeast
+SD,Rapid City Area School District #51-4,2007-11-23,2011-05-27,Voluntary,Midwest
+NH,Raymond Sch Dist,2011-04-28,2011-08-24,Voluntary,Northeast
+MN,Red Wing,2009-12-04,2010-09-02,Voluntary,Midwest
+CT,Redding Board Of Education,2009-09-01,2010-04-13,Voluntary,Northeast
+CT,Regional School District 15,2011-10-14,2012-04-11,Voluntary,Northeast
+CT,Regional School District 19,2012-04-03,2012-09-28,Voluntary,Northeast
+MA,Revere,2010-11-29,2011-05-20,Voluntary,Northeast
+TX,Richardson Isd,2012-03-14,2013-05-20,Voluntary,Southwest
+OH,Richmond Heights Local Sd,2011-02-22,2011-08-19,Voluntary,Midwest
+OH,Richmond Heights Local Sd,2011-03-21,2012-05-11,Voluntary,Midwest
+OH,Richmond Heights Local Sd,2011-09-19,2012-05-11,Voluntary,Midwest
+AZ,Riverside Elementary District,2006-09-21,2007-03-27,Voluntary,Southwest
+CO,Roaring Fork        Re-1,2004-04-29,2005-08-05,Voluntary,West
+NC,Robeson County Schools,2012-02-22,2013-03-21,Voluntary,Southeast
+NC,Robeson County Schools,2012-12-04,2013-07-08,Voluntary,Southeast
+MO,Rockwood R-Vi School District,2012-10-25,2013-04-19,Voluntary,Midwest
+AZ,Roosevelt Elementary District,2000-06-20,2000-10-27,Voluntary,Southwest
+NC,Rowan-Salisbury Schools,2011-10-31,2012-05-01,Voluntary,Southeast
+CA,Sacramento City Unified,2013-04-22,2014-06-13,Voluntary,West
+AZ,Sahuarita Unified District,2001-11-26,2002-05-07,Voluntary,Southwest
+CA,San Francisco State University,2013-10-17,2014-04-10,Voluntary,West
+CA,Santa Ana Unified,2013-05-31,2014-01-24,Voluntary,West
+CA,Santa Clara Unified,2013-03-13,2013-12-18,Voluntary,West
+NM,Santa Fe Public Schools,2003-05-05,2004-08-23,Voluntary,Southwest
+CA,Santa Maria-Bonita Elementary,2012-04-30,2012-10-12,Voluntary,West
+MN,Sauk Rapids Public School District 47,2010-10-01,2012-06-04,Voluntary,Midwest
+NY,Schenectady City School District,2001-06-26,2003-11-18,Voluntary,Northeast
+NY,Schenectady City School District,2010-03-19,2013-10-30,Voluntary,Northeast
+CT,Scotland Board Of Education,2011-03-29,2011-09-19,Voluntary,Northeast
+AZ,Scottsdale Unified District,2008-01-22,2009-12-17,Voluntary,Southwest
+KS,Shawnee Mission Public Schools U.S.D. #512,2008-03-31,2010-03-04,Voluntary,Midwest
+WA,Snoqualmie Valley Sd No. 410,2013-05-14,2014-06-13,Voluntary,West
+AZ,Snowflake Unified District,2004-08-23,2005-10-25,Voluntary,Southwest
+MI,South Haven Public Schools,2010-11-12,2011-05-11,Voluntary,Midwest
+NE,South Sioux City Community Schools,1997-03-04,1997-07-16,Voluntary,Midwest
+MO,Southwest Baptist University,2008-10-24,2009-05-14,Voluntary,Midwest
+MA,Springfield,2012-05-09,2013-02-14,Voluntary,Northeast
+MA,Springfield,2007-06-26,2008-09-26,Voluntary,Northeast
+MA,Springfield,2005-08-30,2006-02-24,Voluntary,Northeast
+MA,Springfield,2007-01-22,2010-07-14,Voluntary,Northeast
+VT,Springfield Sd,2011-04-14,2012-08-14,Voluntary,Northeast
+CO,St Vrain Valley School District Re 1J,2010-07-13,2010-11-17,Voluntary,West
+MN,St. Cloud Area School District 742,2010-03-23,2011-11-16,Voluntary,Midwest
+MO,State Fair Community College,2008-08-20,2009-08-17,Voluntary,Midwest
+CA,Stony Creek Joint Unified,2013-08-29,2014-04-08,Voluntary,West
+OK,Stroud Public Schools,2013-05-06,2013-11-18,Voluntary,Southwest
+WI,Sun Prairie Area,2011-05-18,2013-11-08,Voluntary,Midwest
+OH,Sylvania City Sd,2004-06-14,2006-04-20,Voluntary,Midwest
+NY,Syracuse City School District,2012-10-05,2013-05-13,Voluntary,Northeast
+KS,Tabor College,2013-11-27,2014-05-23,Voluntary,Midwest
+OK,Tahlequah Public Schools,2010-05-05,2010-10-28,Voluntary,Southwest
+AL,Tallapoosa County Sch Dist,2011-05-06,2011-11-02,Voluntary,Southeast
+AL,Tallapoosa County Sch Dist,2011-03-29,2011-09-23,Voluntary,Southeast
+CA,Temecula Valley Unified,2011-12-23,2013-01-03,Voluntary,West
+TX,Texas Higher Ed Desegregation,1997-02-04,2000-05-23,Voluntary,Southwest
+TN,The National College Of Business And Technology,2010-05-06,2013-05-30,Voluntary,Southeast
+OR,Tigard-Tualatin Sd 23J,2010-09-22,2014-02-28,Voluntary,West
+OH,Toledo City School District,2011-12-12,2012-11-30,Voluntary,Midwest
+AZ,Tolleson Union High School District,2011-12-19,2012-06-15,Voluntary,Southwest
+KS,Topeka Public Schools U.S.D. #501,2012-04-17,2012-10-12,Voluntary,Midwest
+MI,Traverse City Area Public Schools,2010-04-12,2012-05-31,Voluntary,Midwest
+MO,Truman State University,2010-06-09,2012-05-09,Voluntary,Midwest
+AZ,Tucson Unified District,2010-05-11,2011-02-22,Voluntary,Southwest
+AZ,Tucson Unified District,2012-04-18,2013-04-22,Voluntary,Southwest
+AZ,Tucson Unified District,1994-10-24,1996-05-31,Voluntary,Southwest
+OK,Tulsa Public Schools,2009-12-14,2010-07-08,Voluntary,Southwest
+OK,Tulsa Public Schools,2010-03-31,2013-02-04,Voluntary,Southwest
+OK,Union Public Schools,2010-03-12,2010-09-07,Voluntary,Southwest
+CA,University Of California-San Diego,2011-03-30,2012-04-16,Voluntary,West
+NY,Vestal Central School District,2011-07-01,2012-05-21,Voluntary,Northeast
+CT,Wallingford Board Of Education,2013-06-10,2013-12-23,Voluntary,Northeast
+MO,Warrensburg R-Vi School District,2011-09-16,2012-03-14,Voluntary,Midwest
+AZ,Washington Elementary School District,2011-02-04,2011-08-03,Voluntary,Southwest
+OK,Wayne Public Schools,2013-03-28,2013-09-24,Voluntary,Southwest
+PA,Waynesboro Area Sd,2011-06-16,2012-02-17,Voluntary,Northeast
+VA,Waynesboro City Public Schools,2011-10-17,2012-03-15,Voluntary,Southeast
+TN,Weakley County School District,2013-01-22,2013-07-19,Voluntary,Southeast
+CA,West Contra Costa Unified,2010-07-06,2012-06-15,Voluntary,West
+OH,West Geauga Local Sd,2012-04-30,2012-12-04,Voluntary,Midwest
+NY,Westchester Community College,2011-09-28,2012-05-31,Voluntary,Northeast
+NY,White Plains Public Schools,2011-02-14,2013-04-18,Voluntary,Northeast
+PA,Wilkes-Barre Area Sd,2011-05-25,2012-03-30,Voluntary,Northeast
+NC,Wilson County Schools,2010-04-05,2012-08-06,Voluntary,Southeast
+CT,Windham Board Of Education,2004-09-08,2006-08-18,Voluntary,Northeast
+MA,Worcester,2012-08-22,2013-02-15,Voluntary,Northeast
+AZ,Yuma School District 1,2013-05-20,2013-11-27,Voluntary,Southwest
