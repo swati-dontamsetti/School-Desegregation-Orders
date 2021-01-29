@@ -21,4 +21,4 @@ We assume that the South is more discriminatory than the North, because of it's 
 ## Progress Update
 I started the cleaning process. I have currently used Jupyter Notebook to go through both CSVs to change NAs into "Unknown year" to keep with other columns, delete unneccessary columns, format the date, and add a necessary column.
 
-I now need to update my Regions column based on the state column. I'm working on for loop and if statements that might work. If I'm not successful I'll have to transfer my tables to SQL to filter and work with the data that way.
+I now need to update my Regions column based on the state column. I'm working on for loop and if statements that might work. If I'm not successful I'll have to transfer my tables to SQL to filter and work with the data that way. (1/29/21)
